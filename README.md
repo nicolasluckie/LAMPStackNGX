@@ -63,7 +63,7 @@ Ensure you have **both** docker and docker-compose installed on your machine.
 
 ### 2. Create environment variable files
 
-We do this as not not to include sensitive information in the `docker-compose.yml` file, but rather sourcing them from the `.env` and `db.ini` files. This way sensitive information is not committed to the version control system.
+We do this as not to include sensitive information in the `docker-compose.yml` file, but rather sourcing them from the `.env` and `db.ini` files. This way sensitive information is not committed to the version control system.
 
 Create **two files**:
 
