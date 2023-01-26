@@ -61,6 +61,8 @@ This is a placeholder for any additional information that may be required.
 
 Ensure you have **both** docker and docker-compose installed on your machine.
 
+Clone this repo to your desired location.
+
 ### 2. Create environment variable files
 
 We do this as not to include sensitive information in the `docker-compose.yml` file, but rather sourcing them from the `.env` and `db.ini` files. This way sensitive information is not committed to the version control system.
@@ -88,9 +90,9 @@ DATABASE=database
 
 Note, the `SERVER` variable **must** match the **container name** in `docker-compose.yml`
 
-### 3. Clone and start the stack
+### 3. Start the stack
 
-Clone the repo and execute `docker compose up -d` from the containing folder.
+Execute `docker compose up -d` from the containing folder.
 
 This will create **1 stack with 4 containers**:
 
