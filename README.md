@@ -1,4 +1,4 @@
-<h1 align="center">LAMPStackNGX</h1>
+<h1 align="center">LAMPStackNGX2</h1>
 
 <!--<h1 align="center">
   <a href="https://mackinnonbowesapp.ddns.net/" target="_blank">
@@ -30,7 +30,7 @@
 - [Installation](#installation)
   - [1. Install docker and docker-compose](#1-install-docker-and-docker-compose)
   - [2. Create environment variable files](#2-create-environment-variable-files)
-  - [3. Clone and start the stack](#3-clone-and-start-the-stack)
+  - [3. Start the stack](#3-start-the-stack)
     - [Bonus: Health check](#bonus-health-check)
 - [Support](#support)
 - [License](#license)
