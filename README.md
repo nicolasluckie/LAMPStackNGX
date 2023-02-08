@@ -1,4 +1,4 @@
-<h1 align="center">LAMPStackNGX2</h1>
+<h1 align="center">LAMPStackNGX</h1>
 
 <!--<h1 align="center">
   <a href="https://mackinnonbowesapp.ddns.net/" target="_blank">
